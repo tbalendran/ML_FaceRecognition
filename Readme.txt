@@ -1,0 +1,2 @@
+All of the listed files need to be in the same folder along with the dataset folder for the code to work. 
+Once they are added the ‘Main.py’ file can be run. Python version 3,8 or higher is recommended.
